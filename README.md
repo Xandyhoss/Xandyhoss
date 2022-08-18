@@ -5,7 +5,7 @@
 
 - :construction_worker: Improving my skills everyday
 
-- :blue_book: Currently looking for a job
+<!-- - :blue_book: Currently looking for a job -->
 
 - [Checkout my last projects](https://github.com/Xandyhoss?tab=repositories)
 
