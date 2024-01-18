@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Alexandre Harrison</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Xandyhoss&color=yellow" alt="Profile views" /> </p>
 
-- :computer: Junior Developer
+- :computer: Front-end developer
 
 - :construction_worker: Improving my skills everyday
 
